@@ -1,0 +1,40 @@
+annee,delegation,superficie_irrigables_ha,superficies_irriguees_ha,superficies_exploitees_ha,region_id,matched_region_ar,matched_region_fr
+2022,monastir,185,110,24,20,المنستير,monastir
+2022,ouardanine,386,385,21,307,الوردانين,alourdanin
+2022,sahline,214,235,39,NA,NA,NA
+2022,zarmdine,111,147,132,258,زرمدين,zrmdin
+2022,beni_hassen,515,337,328,256,بني حسان,bni hsan
+2022,jemmel,181,181,20,NA,NA,NA
+2022,bembla,409,409,75,NA,NA,NA
+2022,moknine,909,844,288,NA,NA,NA
+2022,bekalta,565,520,218,NA,NA,NA
+2022,teboulba,755,574,660,138,طبلبة,tblba
+2022,ksar_hellal,0,0,0,NA,NA,NA
+2022,ksibet_mediouni,50,27,9,NA,NA,NA
+2022,sayada_lamta_bouhjar,0,0,0,NA,NA,NA
+2023,monastir,185,100,39,20,المنستير,monastir
+2023,ouardanine,386,380,19,307,الوردانين,alourdanin
+2023,sahline,214,200,40,NA,NA,NA
+2023,zarmdine,111,120,113,258,زرمدين,zrmdin
+2023,beni_hassen,515,320,353,256,بني حسان,bni hsan
+2023,jemmel,181,181,28,NA,NA,NA
+2023,bembla,409,409,87,NA,NA,NA
+2023,moknine,909,820,115,NA,NA,NA
+2023,bekalta,565,500,317,NA,NA,NA
+2023,teboulba,755,520,671,138,طبلبة,tblba
+2023,ksar_hellal,0,0,0,NA,NA,NA
+2023,ksibet_mediouni,50,20,40,NA,NA,NA
+2023,sayada_lamta_bouhjar,0,0,0,NA,NA,NA
+2024,monastir,185,185,9.9,20,المنستير,monastir
+2024,ouardanine,386,386,75,307,الوردانين,alourdanin
+2024,sahline,214,214,41,NA,NA,NA
+2024,zarmdine,111,111,111,258,زرمدين,zrmdin
+2024,beni_hassen,515,398,358,256,بني حسان,bni hsan
+2024,jemmel,181,181,126,NA,NA,NA
+2024,bembla,409,409,125,NA,NA,NA
+2024,moknine,909,820,208,NA,NA,NA
+2024,bekalta,565,500,123,NA,NA,NA
+2024,teboulba,755,520,120,138,طبلبة,tblba
+2024,ksar_hellal,0,0,0,NA,NA,NA
+2024,ksibet_mediouni,50,20,40,NA,NA,NA
+2024,sayada_lamta_bouhjar,0,0,0,NA,NA,NA

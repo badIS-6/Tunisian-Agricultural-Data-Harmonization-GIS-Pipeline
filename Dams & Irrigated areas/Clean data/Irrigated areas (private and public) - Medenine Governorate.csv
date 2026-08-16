@@ -1,0 +1,28 @@
+annee,delegation,nombre_des_perimetres_publics,superficie_irrigable_ha_perimetre_public,superficie_irriguee_ha_perimetre_public,nombre_des_perimetres_prives,superficie_irrigable_ha_perimetre_prive,superficie_irriguee_ha_perimetre_prive,region_id,matched_region_ar,matched_region_fr
+2022,Médenine Sud,2,80,80,180,280,316,NA,NA,NA
+2022,Sidi Makhlouf,6,166,120,881,1111,1145,781,سيدي مخلوف,sidi mkhlouf
+2022,Ajim,5,217,152,560,415,430,42,أجيم,ajim
+2022,Houmet Essouk,0,0,0,106,83,87,NA,NA,NA
+2022,Midoun,2,117,80,450,275,284,30,ميدون,midoun
+2022,Zarzis,0,0,0,215,184,185,NA,NA,NA
+2022,Médenine Nord,0,0,0,165,116,125,NA,NA,NA
+2022,Ben Guerdane,1,19,11,812,197,245,NA,NA,NA
+2022,Beni Khedech,4,94.3,60,65,117,120,464,بني خداش,bni khdach
+2023,Médenine Sud,2,80,60,185,285,316,NA,NA,NA
+2023,Sidi Makhlouf,6,181,65.5,891,1121,1145,781,سيدي مخلوف,sidi mkhlouf
+2023,Ajim,5,227.5,151,570,425,430,42,أجيم,ajim
+2023,Houmet Essouk,0,0,0,106,83,87,NA,NA,NA
+2023,Midoun,2,117,47,455,280,284,30,ميدون,midoun
+2023,Zarzis,0,0,0,215,184,185,NA,NA,NA
+2023,Médenine Nord,0,0,0,165,116,125,NA,NA,NA
+2023,Ben Guerdane,1,19,11,817,202,245,NA,NA,NA
+2023,Beni Khedech,4,94.3,45,65,117,120,464,بني خداش,bni khdach
+2024,Médenine Nord,2,80,NA,245,378,NA,NA,NA,NA
+2024,Médenine Sud,(*)6,181,NA,1183,1794,NA,NA,NA,NA
+2024,Sidi Makhlouf,5,228,NA,695,750,NA,781,سيدي مخلوف,sidi mkhlouf
+2024,Ajim,0,0,NA,117,95,NA,42,أجيم,ajim
+2024,Midoun,2,146,NA,522,310,NA,30,ميدون,midoun
+2024,Houmet Essouk,0,0,NA,226,204,NA,NA,NA,NA
+2024,Zarzis,0,0,NA,205,220,NA,NA,NA,NA
+2024,Ben Guerdane,1,19,NA,826,322,NA,NA,NA,NA
+2024,Beni Khedech,4,95,NA,71,127,NA,464,بني خداش,bni khdach

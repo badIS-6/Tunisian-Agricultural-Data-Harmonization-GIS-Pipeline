@@ -1,0 +1,15 @@
+annee,delegation,nombre_de_perimetres_irrigues_publics,superficie_de_perimetres_irrigues_publics_ha,nombre_de_zone_dirrigation_de_complement,superficie_avec_irrigation_de_complement_ha,superficie_de_perimetres_irrigues_prives_ha,region_id,matched_region_ar,matched_region_fr
+2024,قفصة الجنوبية,3,1436,0,0,1240,NA,NA,NA
+2024,القصر,3,1395,1,35,1350,1147,القصر,alqsr
+2024,قفصة الشمالية,6,293,6,495,4720,NA,NA,NA
+2024,القطار,6,707,1,100,565,602,القطار,alqtar
+2024,سيدي عيش,10,436,2,200,6400,793,سيدي عيش,sidi aich
+2024,أم العرائس,15,916,2,150,1320,596,أم العرائس,am alarais
+2024,سيدي بوبكر,4,293,NA,NA,390,1323,سيدي بوبكر,sidi boubkr
+2024,المتلوي,4,220,3,220,520,187,المتلوي,almtloui
+2024,الرديف,10,651,3,135,1220,199,الرديف,alrdif
+2024,السند,5,270,NA,NA,1300,606,السند,alsnd
+2024,زانوش,5,282,1,50,2034,1184,زانوش,zanouch
+2024,بلخير,3,167,3,300,375,745,بلخير,blkhir
+2024,كامل الولاية,74,7066,22,1685,21434,NA,NA,NA
+2024,المساحة الجملية,NA,30185,NA,NA,NA,NA,NA,NA

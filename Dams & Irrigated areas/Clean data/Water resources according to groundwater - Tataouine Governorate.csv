@@ -1,0 +1,14 @@
+nom_de_nappe,nombre_de_puits_equipes,total,residu_sec_min,residu_sec_max,ressources_mm3_an,exploi_mm3_an,ressources_diso_mm3_an,deficit_mm3_an,taux_d_exploit_percent,region_id,matched_region_ar,matched_region_fr
+Ghomrassen-Mrabtine,63,80,2,5,0.4,0.1725,0.2275,NA,43,NA,NA,NA
+Oued Tataouine,588,676,0.9,7.5,1.4,1.697,NA,0.29,121,NA,NA,NA
+Oued Tlelet- el Ferch,405,459,1.1,3.5,1.8,1.765,0.051,NA,98,NA,NA,NA
+Graguer-Essed,8,16,1.5,3.5,0.88,0.02,0.86,NA,2,NA,NA,NA
+Plaine smar,872,935,1,13,2.75,4.414,NA,1.527,161,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Plaine el Ouara,19,42,4,10,0.9,0.102,0.8,NA,11,NA,NA,NA
+Om el Khielet,207,293,3,8,1.5,0.503,1.01,NA,34,NA,NA,NA
+Piemont Oriental du Dahar,417,533,1.5,10,2.6,2.163,0.465,NA,83,NA,NA,NA
+Ain Dekouk,78,114,2,11,2,0.636,1.366,NA,32,NA,NA,NA
+"B,V Remtha",30,57,2.5,10,0.41,0.03,0.38,NA,7,NA,NA,NA
+Underflow Dahar,1,12,1.5,10,0.5,0.02,0.48,NA,4,NA,NA,NA
+Total,2688,3217,0.9,13,15.14,11.52,3.83,NA,76,NA,NA,NA

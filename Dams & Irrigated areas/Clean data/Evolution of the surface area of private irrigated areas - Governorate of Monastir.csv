@@ -1,0 +1,34 @@
+annee,delegation,superficies_irrigables_ha,superficies_irriguees_ha,superficies_exploitees_ha,region_id,matched_region_ar,matched_region_fr
+2022,monastir,3,2,0,20,المنستير,monastir
+2022,ouardanine,95,25,28,307,الوردانين,alourdanin
+2022,sahline,45,38,62,NA,NA,NA
+2022,zarmdine,220,403,395,258,زرمدين,zrmdin
+2022,beni_hassen,95,107,103,256,بني حسان,bni hsan
+2022,jemmel,460,112,41,NA,NA,NA
+2022,bembla,40,55,48,NA,NA,NA
+2022,moknine,268,117,13.4,NA,NA,NA
+2022,bekalta,200,146,155,NA,NA,NA
+2022,teboulba,223,170,184,138,طبلبة,tblba
+2022,ksar_hellal_ksiba_salambou,243,229,215,NA,NA,NA
+2023,monastir,2,2,0,20,المنستير,monastir
+2023,ouardanine,90,20,25,307,الوردانين,alourdanin
+2023,sahline,40,35,60,NA,NA,NA
+2023,zarmdine,200,400,390,258,زرمدين,zrmdin
+2023,beni_hassen,90,100,100,256,بني حسان,bni hsan
+2023,jemmel,450,110,40,NA,NA,NA
+2023,bembla,35,50,40,NA,NA,NA
+2023,moknine,260,110,10,NA,NA,NA
+2023,bekalta,190,140,150,NA,NA,NA
+2023,teboulba,220,160,180,138,طبلبة,tblba
+2023,ksar_hellal_ksiba_salambou,240,220,210,NA,NA,NA
+2024,monastir,2,2,0,20,المنستير,monastir
+2024,ouardanine,90,20,13,307,الوردانين,alourdanin
+2024,sahline,40,35,39,NA,NA,NA
+2024,zarmdine,200,200,339,258,زرمدين,zrmdin
+2024,beni_hassen,90,90,32,256,بني حسان,bni hsan
+2024,jemmel,450,110,106,NA,NA,NA
+2024,bembla,35,50,44,NA,NA,NA
+2024,moknine,260,110,69,NA,NA,NA
+2024,bekalta,190,140,30,NA,NA,NA
+2024,teboulba,220,160,30,138,طبلبة,tblba
+2024,ksar_hellal_ksiba_salambou,240,220,95,NA,NA,NA
