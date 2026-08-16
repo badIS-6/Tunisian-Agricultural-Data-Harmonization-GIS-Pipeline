@@ -1,0 +1,116 @@
+gouvernorat,delegation,commune,secteur,superficie,habitants_2004,menage_2004,habitants_2014,menage_2014,region_id,matched_region_ar,matched_region_fr
+Beja,Amdoun,Zahret Medien,Beni Malek,2438,1613,325,1658,372,NA,NA,NA
+Beja,Amdoun,Zahret Medien,Fraijia,1164,1037,204,763,178,NA,NA,NA
+Beja,Amdoun,Zahret Medien,Ghozia,1959,1714,338,1571,331,NA,NA,NA
+Beja,Amdoun,Zahret Medien,Hamra,2740,1618,365,1485,348,NA,NA,NA
+Beja,Amdoun,Zahret Medien,Jouza,1479,1109,216,837,174,NA,NA,NA
+Beja,Amdoun,Zahret Medien,Mjeles,1533,942,192,903,192,NA,NA,NA
+Beja,Amdoun,Zahret Medien,Zahret Medien Sud,1818,2815,617,3187,753,NA,NA,NA
+Beja,Beja Sud,Sidi Smail,Mestouta,4038,1673,352,1759,418,NA,NA,NA
+Beja,Beja Sud,Maagoula,Mkhachbia,8901,2346,496,2332,550,NA,NA,NA
+Beja,Beja Sud,Sidi Smail,Sidi Smail,6476,5495,1180,5393,1385,NA,NA,NA
+Beja,Goubellat,Goubellat,Bir Ech,7990,1421,259,1618,425,NA,NA,NA
+Beja,Goubellat,Goubellat,Chikh Ouedien,3247,1596,308,1504,372,NA,NA,NA
+Beja,Goubellat,Goubellat,Greme,4472,2044,404,1736,411,NA,NA,NA
+Beja,Goubellat,Goubellat,Guemerti,3473,1308,276,1312,324,NA,NA,NA
+Beja,Goubellat,Goubellat,Khacheb,8573,1820,334,1472,349,NA,NA,NA
+Beja,Goubellat,Goubellat,Khniguat Edhen,2826,1236,229,1155,284,NA,NA,NA
+Beja,Mjez El Bab,Mjez Bab,Chaouach,2127,1290,304,1182,318,NA,NA,NA
+Beja,Mjez El Bab,Mjez Bab,Gsar,7069,1301,279,1151,288,NA,NA,NA
+Beja,Mjez El Bab,Mjez Bab,Hidous,4640,827,162,1280,306,NA,NA,NA
+Beja,Mjez El Bab,Mjez Bab,Toukaber,3251,1491,333,1377,340,NA,NA,NA
+Beja,Nefza,Ouechteta - Jmila,Bouzenna,3869,2760,674,2478,666,NA,NA,NA
+Beja,Nefza,Ouechteta - Jmila,Dhirat,1934,2188,541,1868,529,NA,NA,NA
+Beja,Nefza,Ouechteta - Jmila,Fatnassa,2785,1864,377,1335,349,NA,NA,NA
+Beja,Nefza,Ouechteta - Jmila,Ghayadha,3328,1721,386,1534,345,NA,NA,NA
+Beja,Nefza,Ouechteta - Jmila,Jmila,2603,3794,804,3573,972,NA,NA,NA
+Beja,Nefza,Nefza,Nefza Est,1178,3611,847,4034,1025,NA,NA,NA
+Beja,Nefza,Ouechteta - Jmila,Oued El Maaden,2967,2609,544,2168,503,NA,NA,NA
+Beja,Nefza,Ouechteta - Jmila,Tebaba,3612,1689,401,1267,340,NA,NA,NA
+Beja,Nefza,Ouechteta - Jmila,Zagua,3476,4204,959,3458,900,NA,NA,NA
+Beja,Teboursouk,Teboursouk,Ain Hammam,3414,521,114,460,99,NA,NA,NA
+Beja,Teboursouk,Teboursouk,Ain Melliti,4903,1830,342,1424,332,NA,NA,NA
+Beja,Teboursouk,Teboursouk,Bir Touta,6181,1332,253,1230,274,NA,NA,NA
+Beja,Teboursouk,Teboursouk,Rihana,6258,1173,224,839,205,NA,NA,NA
+Beja,Testour,Testour,Mzougha,4231,1134,265,1128,275,NA,NA,NA
+Beja,Testour,Testour,Zeldou,7611,1869,399,1625,402,NA,NA,NA
+Beja,Thibar,Thibar,Ain Dfali,2576,1676,400,1659,438,NA,NA,NA
+Beja,Thibar,Thibar,Djebba,3544,3641,874,3780,982,NA,NA,NA
+Bizerte,Ghezala,Ghezala,Arab,5855,2201,491,1955,482,15,بنزرت,bizerte
+Bizerte,Ghezala,Ghezala,Ouled El May,8966,1812,398,1208,325,15,بنزرت,bizerte
+Bizerte,Joumine,Joumine,Bazina,1647,4975,953,4094,867,15,بنزرت,bizerte
+Bizerte,Joumine,Joumine,Chnena,2122,3483,656,3280,734,15,بنزرت,bizerte
+Bizerte,Joumine,Joumine,Ouled Ghanem,4896,6680,1169,5942,1249,15,بنزرت,bizerte
+Bizerte,Joumine,Joumine,Rouaha,3576,3675,745,2676,555,15,بنزرت,bizerte
+Bizerte,Joumine,Joumine,Tahent,8704,3038,579,2360,544,15,بنزرت,bizerte
+Bizerte,Joumine,Joumine,Touajnia,4725,5568,1104,4379,1008,15,بنزرت,bizerte
+Bizerte,Sejnane,Hchachna,Ababsa,4380,3919,808,3241,803,15,بنزرت,bizerte
+Bizerte,Sejnane,Hchachna,Hchachna,7457,6454,1342,6068,1401,15,بنزرت,bizerte
+Bizerte,Sejnane,Hchachna,Maalia,6513,5033,1087,4890,1312,15,بنزرت,bizerte
+Bizerte,Sejnane,Sejnene,Mchergua,3980,5392,1178,5125,1189,15,بنزرت,bizerte
+Bizerte,Sejnane,Hchachna,Mouaden,15805,4566,870,4598,1035,15,بنزرت,bizerte
+Bizerte,Sejnane,Sejnene,Sejnene,6271,8656,1846,8511,2149,15,بنزرت,bizerte
+Bizerte,Sejnane,Sejnene,Shabna,6510,4829,1090,4595,1235,15,بنزرت,bizerte
+Bizerte,Sejnane,Sejnene,Sidi Mechreg,9126,3307,733,3138,743,15,بنزرت,bizerte
+Jendouba,Ain Draham,Ain Draham,Ain Salem,4758,1354,353,842,248,37,جندوبة,jndouba
+Jendouba,Ain Draham,Ain Draham,Homrane,4123,1722,408,1305,376,37,جندوبة,jndouba
+Jendouba,Ain Draham,Khmeiria,Khmeiria,6122,5106,1103,4626,1179,37,جندوبة,jndouba
+Jendouba,Ain Draham,Ain Draham,Oued Zen,6726,1348,292,923,266,37,جندوبة,jndouba
+Jendouba,Ain Draham,Khmeiria,Rouai,4077,3895,705,3237,691,37,جندوبة,jndouba
+Jendouba,Ain Draham,Khmeiria,Sloul,3528,2996,668,2358,630,37,جندوبة,jndouba
+Jendouba,Ain Draham,Khmeiria,Tegma,2863,2885,652,1952,539,37,جندوبة,jndouba
+Jendouba,Fernana,Fernana,El Adher,2639,3886,870,2749,780,37,جندوبة,jndouba
+Jendouba,Fernana,Jouaouda,Ouled Mfedda,2644,3725,768,3851,946,37,جندوبة,jndouba
+Jendouba,Fernana,Jouaouda,Gloub Thiren,2103,2118,470,1736,477,37,جندوبة,jndouba
+Jendouba,Fernana,Jouaouda,Gloub Thiren Nord,3634,4584,975,3770,1015,37,جندوبة,jndouba
+Jendouba,Fernana,Fernana,Hedhil,1361,2176,497,1966,546,37,جندوبة,jndouba
+Jendouba,Fernana,Jouaouda,Hlima,3762,5127,1016,4710,1127,37,جندوبة,jndouba
+Jendouba,Fernana,Jouaouda,Jouaouda,1717,3255,719,2672,726,37,جندوبة,jndouba
+Jendouba,Fernana,Fernana,Oued Ghrib,4521,5263,1215,4681,1211,37,جندوبة,jndouba
+Jendouba,Fernana,Fernana,Rbia,2897,2175,470,1914,476,37,جندوبة,jndouba
+Jendouba,Fernana,Fernana,Sidi Ammar,3167,3846,866,3082,798,37,جندوبة,jndouba
+Jendouba,Ghardimaou,Ghardimaou,Ain Soltane,6254,3725,785,3151,831,37,جندوبة,jndouba
+Jendouba,Ghardimaou,Ghardimaou,Fej Hessin,6291,2607,569,2145,488,37,جندوبة,jndouba
+Jendouba,Ghardimaou,Galaa - Maaden - Forksen,Forksen,4414,4560,884,3839,971,37,جندوبة,jndouba
+Jendouba,Ghardimaou,Galaa - Maaden - Forksen,El Maaden,3321,4770,865,3719,862,37,جندوبة,jndouba
+Jendouba,Ghardimaou,Ghardimaou,Sraya,6080,7128,1324,7148,1503,37,جندوبة,jndouba
+Jendouba,Ghardimaou,Ghardimaou,Ouechteta,5844,4634,845,4251,912,37,جندوبة,jndouba
+Jendouba,Tabarka,Ain Sobeh - Nadhour,Ain Snoussi,7462,2201,502,1689,420,37,جندوبة,jndouba
+Jendouba,Tabarka,Ain Sobeh - Nadhour,El Hammam,4279,4216,869,2975,870,37,جندوبة,jndouba
+Jendouba,Tabarka,Ain Sobeh - Nadhour,Nadhour,4842,4579,1003,3896,1012,37,جندوبة,jndouba
+Kef,Kef Est,Zaafrane - Dyr Kef,Dyr Kef,9918,3608,816,3386,862,NA,NA,NA
+Kef,Kef Est,Zaafrane - Dyr Kef,Oued Souani,8806,2271,499,1923,491,NA,NA,NA
+Kef,Kef Est,Zaafrane - Dyr Kef,Oued Souani Sud,9037,2469,550,2024,508,NA,NA,NA
+Kef,Kef Est,Zaafrane - Dyr Kef,Zaafrane,9441,4636,1025,5497,1381,NA,NA,NA
+Kef,Kef Ouest,Kef,Oued Rmal Nord,6672,4976,1041,4962,1267,NA,NA,NA
+Kef,Kef Ouest,Kef,Oued Rmal Sud,14288,5790,1279,6886,1778,NA,NA,NA
+Kef,Nebeur,Bahra,Bahra,8318,3922,864,3518,904,NA,NA,NA
+Kef,Nebeur,Bahra,Chtetla,6739,1266,252,1077,265,NA,NA,NA
+Kef,Nebeur,Bahra,Sidi Medien,3498,1835,385,1573,360,NA,NA,NA
+Kef,Nebeur,Nebeur,Tell Ghozlen,5887,2572,516,2261,520,NA,NA,NA
+Kef,Sakiet Sidi Youssef,Sakiet Sidi Youssef,Ain Karma,10501,2342,470,1941,496,NA,NA,NA
+Kef,Sakiet Sidi Youssef,Sakiet Sidi Youssef,Farchen,16386,1586,342,1426,383,NA,NA,NA
+Kef,Sakiet Sidi Youssef,Sakiet Sidi Youssef,Jradou,12773,2874,691,2102,591,NA,NA,NA
+Kef,Sakiet Sidi Youssef,Sakiet Sidi Youssef,Sidi Rabeh,7629,2046,434,1739,436,NA,NA,NA
+Kef,Sers,Sers,Lorbeus,10810,2062,429,1782,460,NA,NA,NA
+Kef,Sers,Sers,Bousliaa,7859,2734,544,2024,520,NA,NA,NA
+Kef,Sers,Sers,Sers Nord,8244,1146,263,924,238,NA,NA,NA
+Kef,Touiref,Touiref,Ladhieb,4617,1243,286,1063,262,NA,NA,NA
+Kef,Touiref,Touiref,Mellala,8217,1343,291,1195,312,NA,NA,NA
+Kef,Touiref,Touiref,Oueljet Cedra,4603,1177,272,1078,302,NA,NA,NA
+Kef,Touiref,Touiref,Touiref,6140,3336,736,2848,760,NA,NA,NA
+Siliana,Bourouis,Bourouis,Abassi,5703,3417,616,2612,603,770,سليانة,sliana
+Siliana,Bourouis,Bourouis,Ain Achour,6996,3319,676,2340,568,770,سليانة,sliana
+Siliana,Bourouis,Bourouis,Tricha,3914,1029,202,813,196,770,سليانة,sliana
+Siliana,Krib,Krib,Borj Messaoudi EST,7044,3106,647,2758,682,770,سليانة,sliana
+Siliana,Krib,Krib,Borj Messaoudi OUEST,6412,2038,440,1796,463,770,سليانة,sliana
+Siliana,Krib,Krib,Doukhania,6274,2523,535,2167,578,770,سليانة,sliana
+Siliana,Krib,Krib,Hammam Biadha Nord,5088,1922,434,1714,477,770,سليانة,sliana
+Siliana,Krib,Krib,Hammam Biadha Sud,8442,2242,466,2086,525,770,سليانة,sliana
+Siliana,Krib,Krib,Krib Nord,2530,3523,770,3533,897,770,سليانة,sliana
+Siliana,Krib,Krib,Krib Sud,8135,6192,1337,6101,1563,770,سليانة,sliana
+Siliana,Siliana Nord,Siliana,Ain Dissa,3616,740,162,539,134,770,سليانة,sliana
+Siliana,Siliana Nord,Siliana,Jema,11460,2344,487,2065,504,770,سليانة,sliana
+Siliana,Siliana Nord,Siliana,Joua,6450,1330,261,1396,313,770,سليانة,sliana
+Siliana,Siliana Nord,Siliana,Khalsa,4930,1059,229,893,207,770,سليانة,sliana
+Siliana,Siliana Nord,Siliana,Massouj,5393,1600,332,1257,311,770,سليانة,sliana
