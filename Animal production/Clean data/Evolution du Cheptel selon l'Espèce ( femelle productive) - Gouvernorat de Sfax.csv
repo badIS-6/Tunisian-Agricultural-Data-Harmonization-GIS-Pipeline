@@ -1,0 +1,83 @@
+annee,delegation,bovins_femelle_productive,ovins_femelle_productive,caprins_femelle_productive,camelides_femelle_productive,region_id,matched_region_ar,matched_region_fr
+2018,Sfax Sud,1280,3300,280,5,NA,NA,NA
+2018,Sfax Ouest,33,200,180,0,NA,NA,NA
+2018,Thyna,2530,2500,500,10,NA,NA,NA
+2018,Jebeniana,2760,10000,1400,20,912,جبنيانة,jbniana
+2018,Kerkennah,25,4000,300,0,NA,NA,NA
+2018,Bir Ali Ben Khalifa,420,35000,3900,90,105,بئر علي بن خليفة,bir ali bn khlifa
+2018,Agareb,500,16000,1600,25,NA,NA,NA
+2018,El Mahres,840,8000,1300,10,1747,el mahrab,el mahrab
+2018,Gheriba,0,15000,1900,5,133,الغريبة,alghriba
+2018,Skhira,42,45000,6240,80,1358,صخيرة,skhira
+2018,Menzel Chaker,1850,35000,2600,10,94,منزل شاكر,mnzl chakr
+2018,Hencha,1100,15000,1500,70,NA,NA,NA
+2018,Amra,1000,7000,800,10,1354,عمرة,amra
+2018,Sakiet Eddaier,840,2000,200,5,NA,NA,NA
+2018,Sakiet Ezzit,280,2000,300,4,NA,NA,NA
+2018,TOTAL,13500,200000,23000,344,NA,NA,NA
+2019,Sfax Sud,1350,3660,252,5,NA,NA,NA
+2019,Sfax Ouest,34.65,220,162,0,NA,NA,NA
+2019,Thyna,2660,2770,450,10,NA,NA,NA
+2019,Jebeniana,2900,11100.000000000002,1260,20,912,جبنيانة,jbniana
+2019,Kerkennah,30,4440,270,0,NA,NA,NA
+2019,Bir Ali Ben Khalifa,450,38850,3510,90,105,بئر علي بن خليفة,bir ali bn khlifa
+2019,Agareb,525,17760,1440,25,NA,NA,NA
+2019,El Mahres,882,8880,1170,10,1747,el mahrab,el mahrab
+2019,Gheriba,0,16650,1710,5,133,الغريبة,alghriba
+2019,Skhira,45,49950.00000000001,5616,80,1358,صخيرة,skhira
+2019,Menzel Chaker,1942.5,38850,2340,10,94,منزل شاكر,mnzl chakr
+2019,Hencha,1155,16650,1350,70,NA,NA,NA
+2019,Amra,1050,7770.000000000001,720,10,1354,عمرة,amra
+2019,Sakiet Eddaier,882,2220,180,5,NA,NA,NA
+2019,Sakiet Ezzit,294,2220,270,4,NA,NA,NA
+2019,TOTAL,14200.15,221990,20700,344,NA,NA,NA
+2020,Sfax Sud,1300,3500,250,5,NA,NA,NA
+2020,Sfax Ouest,40,250,200,0,NA,NA,NA
+2020,Thyna,2650,3500,520,10,NA,NA,NA
+2020,Jebeniana,2800,12000,1500,20,912,جبنيانة,jbniana
+2020,Kerkennah,35,6200,350,0,NA,NA,NA
+2020,Bir Ali Ben Khalifa,400,39000,3550,90,105,بئر علي بن خليفة,bir ali bn khlifa
+2020,Agareb,530,19500,1700,25,NA,NA,NA
+2020,El Mahres,850,9500,1400,10,1747,el mahrab,el mahrab
+2020,Gheriba,0,17500,2100,5,133,الغريبة,alghriba
+2020,Skhira,45,50100,6760,80,1358,صخيرة,skhira
+2020,Menzel Chaker,2000,39000,2800,10,94,منزل شاكر,mnzl chakr
+2020,Hencha,1150,16540,1700,70,NA,NA,NA
+2020,Amra,1100,8050,720,10,1354,عمرة,amra
+2020,Sakiet Eddaier,850,2560,180,5,NA,NA,NA
+2020,Sakiet Ezzit,250,2800,270,4,NA,NA,NA
+2020,TOTAL,14000,230000,24000,344,NA,NA,NA
+2023,Sfax Centre,NA,NA,NA,NA,NA,NA,NA
+2023,Sfax Sud,1265,3525,200,5,NA,NA,NA
+2023,Sfax Ouest,0,277,150,0,NA,NA,NA
+2023,Thyna,1925,3550,500,10,NA,NA,NA
+2023,Jebeniana,1764,1250,1500,20,912,جبنيانة,jbniana
+2023,Kerkennah,35,5000,350,0,NA,NA,NA
+2023,Bir Ali Ben Khalifa,421,33500,3430,90,105,بئر علي بن خليفة,bir ali bn khlifa
+2023,Agareb,350,18000,1700,25,NA,NA,NA
+2023,El Mahres,350,8500,1400,10,1747,el mahrab,el mahrab
+2023,Gheriba,0,15000,2100,5,133,الغريبة,alghriba
+2023,Skhira,40,41918,3000,80,1358,صخيرة,skhira
+2023,Menzel Chaker,1600,40000,2800,10,94,منزل شاكر,mnzl chakr
+2023,Hencha,900,17000,1700,70,NA,NA,NA
+2023,Amra,950,8050,720,10,1354,عمرة,amra
+2023,Sakiet Eddaier,250,2200,180,5,NA,NA,NA
+2023,Sakiet Ezzit,150,2230,270,4,NA,NA,NA
+2023,TOTAL,10000,200000,20000,344,NA,NA,NA
+2024,Sfax Centre,NA,NA,NA,NA,NA,NA,NA
+2024,Sfax Sud,800,3525,200,5,NA,NA,NA
+2024,Sfax Ouest,40,277,150,0,NA,NA,NA
+2024,Thyna,1000,3550,500,10,NA,NA,NA
+2024,Jebeniana,1500,1250,1500,20,912,جبنيانة,jbniana
+2024,Kerkennah,35,5000,350,0,NA,NA,NA
+2024,Bir Ali Ben Khalifa,250,33500,3430,90,105,بئر علي بن خليفة,bir ali bn khlifa
+2024,Agareb,480,18000,1700,25,NA,NA,NA
+2024,El Mahres,550,8500,1400,10,1747,el mahrab,el mahrab
+2024,Gheriba,0,15000,2100,5,133,الغريبة,alghriba
+2024,Skhira,40,41918,3000,80,1358,صخيرة,skhira
+2024,Menzel Chaker,2500,40000,2800,10,94,منزل شاكر,mnzl chakr
+2024,Hencha,1000,17000,1700,70,NA,NA,NA
+2024,Amra,950,8050,720,10,1354,عمرة,amra
+2024,Sakiet Eddaier,700,2200,180,5,NA,NA,NA
+2024,Sakiet Ezzit,155,2230,270,4,NA,NA,NA
+2024,TOTAL,10000,200000,20000,344,NA,NA,NA

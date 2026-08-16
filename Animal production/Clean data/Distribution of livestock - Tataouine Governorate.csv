@@ -1,0 +1,10 @@
+annee,delegation,bovin,ovin_caprin,chamaux,abeilles,volaille_ouefs,volaille_viande,lapin,region_id,matched_region_ar,matched_region_fr
+2022,Tataouine nord,66,224822,7420,100,30000,6600,0,5,تطاوين,tataouine
+2022,Tataouine sud,NA,109338,1517,0,0,0,0,5,تطاوين,tataouine
+2022,Smar,267,56249,691,0,11000,0,0,NA,NA,NA
+2022,Beni mhira,0,110495,4735,0,0,0,0,889,beni mhira,beni mhira
+2022,Remada,0,66763,640,0,0,0,0,380,رمادة,rmada
+2022,Dehiba,10,26560,1932,0,0,0,0,418,ذيبية,dhibia
+2022,Bir lahmer,0,23508,12,120,0,7700,0,910,بئر الأحمر,bir alahmr
+2022,Ghomarassen,5,38215,232,0,10750,10000,0,NA,NA,NA
+2022,Totale,348,655950,17179,220,51750,24300,0,NA,NA,NA
