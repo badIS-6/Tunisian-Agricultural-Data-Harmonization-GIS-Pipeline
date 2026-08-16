@@ -1,0 +1,27 @@
+nom_fr,nom_ar,date_creation,gestion,delegation,nbre_adherants,capacite_mille_litres,collecte_mensuelle_litres,latitude_utm_m,longitude_utm_m,region_id,matched_region_ar,matched_region_fr
+Al Izdihar,الإزدهار,1992-04-07T00:00:00Z,SMSA,Thibar,580,7500,380757,509 097,4 041 324,340,الإزدهار,alizdhar
+Il Baraka,البركة,1994-04-01T00:00:00Z,SMSA,Béja Sud,47,11000,111345,516 252,4 056 138,127,البرمة,albrma
+El Amal - Zahret_medyen,الأمل - زهرة مدين,1994-05-01T00:00:00Z,SMSA,Amdoun,385,14000,104810,506 890,4 068 261,NA,NA,NA
+Ksar hadid,قصر حديد,1996-01-01T00:00:00Z,Privé,Béja Sud,28,2000,80985,508 306,4 056 787,41,قصر حدادة,qsr hdada
+Zaafrane,زعفران,1996-03-01T00:00:00Z,Privé,Béja Sud,240,15000,292312,505 630,4 053 615,66,زعفران,zafran
+El Hamrounia,الحمرونية,1996-10-15T00:00:00Z,Privé,Béja Sud,370,28000,216388,509 548,4 063 331,1139,الحنية,alhnia
+Khalled,خلاد,1998-04-24T00:00:00Z,Privé,Teboursouk,196,11000,184575,521 242,4 027 995,NA,NA,NA
+El Ouelja,الولجة,1999-04-24T00:00:00Z,Privé,Béja Sud,230,13000,108984,517 820,4 053 579,NA,NA,NA
+El Gouassim,القواسم,2002-03-25T00:00:00Z,Privé,Béja Sud,800,5000,415595,511 281,4 060 696,NA,NA,NA
+Ras Il Wad,رأس الوادي,2002-03-31T00:00:00Z,Privé,Nefza,84,5000,68338,507 209,4 092 856,1529,رأس الوادي,ras alouadi
+Laith,ليث,2002-04-15T00:00:00Z,SMSA,Béja Sud,320,13000,172052,507 052,4 058 230,NA,NA,NA
+El Amal - Ain Sallem,الأمل - عين سلام,2002-09-30T00:00:00Z,SMSA,Amdoun,200,6000,294866,509 100,4 072 347,NA,NA,NA
+Laghoual,الأغوال,2003-03-13T00:00:00Z,SMSA,Béja Sud,700,6200,422396,520 077,4 052 247,NA,NA,NA
+Nour,نور,2003-03-13T00:00:00Z,SMSA,Béja Sud,135,4000,94035,546 522,4 050 563,NA,NA,NA
+Mastouta,مستوتة,2003-04-29T00:00:00Z,Privé,Béja Sud,60,14500,72008,520 086,4 050 415,NA,NA,NA
+Boukhmira,بوخمير,2004-01-13T00:00:00Z,SMSA,Béja Sud,600,4400,330999,513 668,4 052 315,NA,NA,NA
+Ghayadha,غياضة,2004-03-25T00:00:00Z,Privé,Nefza,73,7000,66697,519 644,4 086 755,NA,NA,NA
+Hammem Sayala,حمام سيالة,2004-04-01T00:00:00Z,SMSA,Béja Sud,63,12500,72422,509 475,4 049 758,1122,حمام السيالة,hmam alsiala
+SCOLAIT-Km16,سكولي - كلم 16,2004-05-13T00:00:00Z,SMSA,Béja Nord,135,13500,46422,519 101,4 078 661,NA,NA,NA
+SCOLAIT-Teboursouk,سكولي - تبرسق,2004-05-13T00:00:00Z,SMSA,Teboursouk,564,8900,724858,522 680,4 033 429,NA,NA,NA
+SOTUCOLAIT,سوتيكولي,2006-10-18T00:00:00Z,SMSA,Béja Nord,35,20000,31901,516 882,4 064 974,NA,NA,NA
+Al Majd - Al Wadoud,المجد - الودود,2010-07-08T00:00:00Z,Privé,Amdoun,170,19500,262971,501 056,4 077 598,NA,NA,NA
+M'khachbia,المخشبية,2015-11-04T00:00:00Z,Privé,Béja Sud,600,2000,612179,529 380,4 061 238,279,الشبيكة,alchbika
+Jmila,الجميلة,2016-03-07T00:00:00Z,Privé,Nefza,450,5000,235424,508 451,4 089 163,600,المظيلة,almzila
+Ksar Mezouar,قصر مزوار,2016-05-31T00:00:00Z,Privé,Béja Nord,600,8000,340123,529 227,4 071 103,NA,NA,NA
+El Aman,الأمان,2017-11-27T00:00:00Z,SMSA,Thibar,300,24000,196421,509 021,4 041 907,NA,NA,NA

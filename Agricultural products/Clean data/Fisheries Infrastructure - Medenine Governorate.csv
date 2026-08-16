@@ -1,0 +1,25 @@
+annee,delegation,nombre_de_ports,nombre_de_chantier_naval_de_construction,nombre_de_chantier_naval_de_reparation,nombre_de_fabriques_de_glace,nombre_de_moyens_de_transport_frigorifique,nombre_dunites_de_confection_montage_de_filets,region_id,matched_region_ar,matched_region_fr
+2022,Médenine Sud,1,0,2,2,56,0,NA,NA,NA
+2022,Sidi Makhlouf,1,0,0,2,10,0,781,سيدي مخلوف,sidi mkhlouf
+2022,Ajim,1,0,1,5,10,1,42,أجيم,ajim
+2022,Houmet Essouk,1,0,1,3,25,0,NA,NA,NA
+2022,Midoun,1,0,0,0,3,0,30,ميدون,midoun
+2022,Zarzis,2,2,2,4,100,0,NA,NA,NA
+2022,Médenine Nord,0,0,0,0,0,0,NA,NA,NA
+2022,Ben Guerdane,1,0,1,1,10,0,NA,NA,NA
+2023,Médenine Sud,1,0,2,2,56,0,NA,NA,NA
+2023,Sidi Makhlouf,1,0,0,2,10,0,781,سيدي مخلوف,sidi mkhlouf
+2023,Ajim,1,0,1,5,10,1,42,أجيم,ajim
+2023,Houmet Essouk,1,1,1,3,25,0,NA,NA,NA
+2023,Midoun,1,0,0,1,3,0,30,ميدون,midoun
+2023,Zarzis,2,2,2,4,180,0,NA,NA,NA
+2023,Médenine Nord,0,0,0,0,0,0,NA,NA,NA
+2023,Ben Guerdane,1,0,1,1,11,0,NA,NA,NA
+2024,Médenine Sud,1,0,1,2,60,0,NA,NA,NA
+2024,Sidi Makhlouf,0,0,0,2,15,0,781,سيدي مخلوف,sidi mkhlouf
+2024,Ajim,1,0,1,5,12,1,42,أجيم,ajim
+2024,Houmet Essouk,1,1,NA,3,27,0,NA,NA,NA
+2024,Midoun,0,0,0,1,5,0,30,ميدون,midoun
+2024,Zarzis,1,3,NA,4,190,0,NA,NA,NA
+2024,Médenine Nord,0,0,0,0,0,0,NA,NA,NA
+2024,Ben Guerdane,1,0,0,1,18,0,NA,NA,NA

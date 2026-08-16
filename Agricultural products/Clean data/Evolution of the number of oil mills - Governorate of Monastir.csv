@@ -1,0 +1,37 @@
+annee,delegation,huileries_nb,capacite_transformation_t_par_24h,capacite_stockage_t,region_id,matched_region_ar,matched_region_fr
+2022,monastir,2,60,59,20,المنستير,monastir
+2022,ouardanine,5,40,83,307,الوردانين,alourdanin
+2022,sahline,6,70,370,NA,NA,NA
+2022,zarmdine,16,100,888,258,زرمدين,zrmdin
+2022,beni_hassen,14,20,62,256,بني حسان,bni hsan
+2022,jemmel,26,30,146,NA,NA,NA
+2022,bembla,8,165,127,NA,NA,NA
+2022,moknine,29,55,80,NA,NA,NA
+2022,bekalta,8,90,68,NA,NA,NA
+2022,teboulba,2,85,155,138,طبلبة,tblba
+2022,ksar_hellal,1,20,217,NA,NA,NA
+2022,ksiba,7,100,391,734,سبيبة,sbiba
+2023,monastir,2,60,59,20,المنستير,monastir
+2023,ouardanine,5,40,83,307,الوردانين,alourdanin
+2023,sahline,6,70,370,NA,NA,NA
+2023,zarmdine,16,100,888,258,زرمدين,zrmdin
+2023,beni_hassen,14,20,62,256,بني حسان,bni hsan
+2023,jemmel,26,30,146,NA,NA,NA
+2023,bembla,8,165,127,NA,NA,NA
+2023,moknine,29,55,80,NA,NA,NA
+2023,bekalta,8,90,68,NA,NA,NA
+2023,teboulba,2,85,155,138,طبلبة,tblba
+2023,ksar_hellal,1,20,217,NA,NA,NA
+2023,ksiba,7,100,391,734,سبيبة,sbiba
+2024,monastir,2,130,303,20,المنستير,monastir
+2024,ouardanine,5,210,341.5,307,الوردانين,alourdanin
+2024,sahline,5,90,280,NA,NA,NA
+2024,zarmdine,16,790,2000,258,زرمدين,zrmdin
+2024,beni_hassen,17,655,795,256,بني حسان,bni hsan
+2024,jemmel,25,1074,3030,NA,NA,NA
+2024,bembla,9,309,300,NA,NA,NA
+2024,moknine,24,378,270,NA,NA,NA
+2024,bekalta,8,460,980,NA,NA,NA
+2024,teboulba,2,260,116,138,طبلبة,tblba
+2024,ksar_hellal,2,30,90,NA,NA,NA
+2024,ksiba,6,285,380,734,سبيبة,sbiba

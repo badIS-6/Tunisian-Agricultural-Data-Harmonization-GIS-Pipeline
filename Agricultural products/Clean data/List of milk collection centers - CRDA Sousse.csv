@@ -1,0 +1,7 @@
+numero_agrement,nom_etablissement_fr,delegation_fr,adresse_fr,etat,region_id,matched_region_ar,matched_region_fr
+CCL0501,SDA CHEMS,bouficha,Bouficha - Sousse,valide,319,بوفيشة,bouficha
+CCL0502,SMBSA Ennajeh,kalaa kebira,kalaa kebira - Sousse,valide,NA,NA,NA
+CCL0503,SMBSA Ettajdid,akouda,Akouda - Sousse,valide,265,أكودة,akouda
+CCL0504,SSA Elhoukoul,kalaa kebira,kalaa kebira - Sousse,valide,NA,NA,NA
+CCL0504,CCL BEN SOUISSI - oueriema,sidi bou ali,Oueriema - Sidi Bouali - Sousse,valide,424,سيدي بو علي,sidi bou ali
+CCL0505,SMBSA L'Horizon,kalaa kebira,Elgabou- kalaa kebira - Sousse,valide,NA,NA,NA

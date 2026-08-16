@@ -1,0 +1,9 @@
+numero_enregistrement,nom_entrepot_fr,adresse_fr,activite_fr,temperature_de_stockage,etat,region_id,matched_region_ar,matched_region_fr
+ENT 05-01,FRAM'S,ZT sousse,vainde rouge,congelé,suspendu,12,سوسة,sousse
+ENT 05-02,Norcineria italianna,ZT hammam sousse,charcuterie porcine,réfrigéré,valide,NA,NA,NA
+ENT 05-03,Hotel Safood Tunisie,Kalaa kebira,lactoserum,température ambiante,valide,NA,NA,NA
+ENT 05-10,TFT (tuna farm tunisia),port de peche Hergla,produit de la peche,congelé,suspendu,NA,NA,NA
+ENT 05-12,Fish tunisie,port de peche Hergla,produit de la peche,congelé,suspendu,NA,NA,NA
+ENT 05-14,Cofagros,ZI sidi abdelhamid,produit de la peche,congelé,suspendu,NA,NA,NA
+ENT 05-15,frigoline,chott meriam,produit de la peche,congelé,valide,NA,NA,NA
+ENT 05-18,Friguia park,bouficha,produit de la peche,congelé,valide,319,بوفيشة,bouficha

@@ -1,0 +1,49 @@
+annee,delegation,nombre_des_huileries,capacite_de_stockage_en_tonne,capacite_de_transformation_en_tonne_par_jour,region_id,matched_region_ar,matched_region_fr
+2022,Nabeul,2,30,30,11,نابل,nabeul
+2022,Dar Chaabane EL Fehri,NA,NA,NA,500,دار شعبان الفهري,dar chaban alfhri
+2022,Beni Khiar,10,745,660,217,بني خيار,bni khiar
+2022,Korba,6,535,285,NA,NA,NA
+2022,Menzel Tmime,3,235,115,915,منزل تميم,mnzl tmim
+2022,El Mida,4,30,120,NA,NA,NA
+2022,Kelibia,5,630,330,NA,NA,NA
+2022,Hammam Laghzaz,2,150,110,NA,NA,NA
+2022,Haouaria,2,135,95,220,الهوارية,alhouaria
+2022,Takelsa,4,291,140,NA,NA,NA
+2022,Soliman,2,300,35,213,سليمان,sliman
+2022,Menzel Bou Zelfa,2,255,50,212,منزل بوزلفة,mnzl bouzlfa
+2022,Beni Khalled,1,220,100,210,بني خلاد,bni khlad
+2022,Grombalia,2,290,120,211,قرمبالية,qrmbalia
+2022,Bou Argoub,3,390,140,290,بوعرقوب,bouarqoub
+2022,Hammamet,4,1090,200,NA,NA,NA
+2023,Nabeul,2,30,30,11,نابل,nabeul
+2023,Dar Chaabane EL Fehri,NA,NA,NA,500,دار شعبان الفهري,dar chaban alfhri
+2023,Beni Khiar,10,675,620,217,بني خيار,bni khiar
+2023,Korba,6,538,320,NA,NA,NA
+2023,Menzel Tmime,3,249,170,915,منزل تميم,mnzl tmim
+2023,El Mida,4,61,180,NA,NA,NA
+2023,Kelibia,5,504,285,NA,NA,NA
+2023,Hammam Laghzaz,2,150,185,NA,NA,NA
+2023,Haouaria,2,132,115,220,الهوارية,alhouaria
+2023,Takelsa,4,240,115,NA,NA,NA
+2023,Soliman,2,211,35,213,سليمان,sliman
+2023,Menzel Bou Zelfa,2,220,50,212,منزل بوزلفة,mnzl bouzlfa
+2023,Beni Khalled,1,220,60,210,بني خلاد,bni khlad
+2023,Grombalia,2,290,70,211,قرمبالية,qrmbalia
+2023,Bou Argoub,3,393,140,290,بوعرقوب,bouarqoub
+2023,Hammamet,4,990,175,NA,NA,NA
+2024,Nabeul,2,30,30,11,نابل,nabeul
+2024,Dar Chaabane EL Fehri,NA,NA,NA,500,دار شعبان الفهري,dar chaban alfhri
+2024,Beni Khiar,9,756,710,217,بني خيار,bni khiar
+2024,Korba,6,436,355,NA,NA,NA
+2024,Menzel Tmime,3,269,170,915,منزل تميم,mnzl tmim
+2024,El Mida,4,61,180,NA,NA,NA
+2024,Kelibia,5,504,285,NA,NA,NA
+2024,Hammam Laghzaz,3,160,245,NA,NA,NA
+2024,Haouaria,2,137,95,220,الهوارية,alhouaria
+2024,Takelsa,4,261,115,NA,NA,NA
+2024,Soliman,2,300,35,213,سليمان,sliman
+2024,Menzel Bou Zelfa,2,215,50,212,منزل بوزلفة,mnzl bouzlfa
+2024,Beni Khalled,1,220,60,210,بني خلاد,bni khlad
+2024,Grombalia,2,290,70,211,قرمبالية,qrmbalia
+2024,Bou Argoub,3,393,120,290,بوعرقوب,bouarqoub
+2024,Hammamet,4,1050,175,NA,NA,NA

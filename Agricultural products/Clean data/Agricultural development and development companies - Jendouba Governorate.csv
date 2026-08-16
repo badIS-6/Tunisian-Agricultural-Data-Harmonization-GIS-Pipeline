@@ -1,0 +1,21 @@
+annee,delegation,nombre,superficie_ha,superficie_irriguee_ha,postes_demploi_occasionelle_nombre_jours,postes_demploi_permanents_ouvriers,region_id,matched_region_ar,matched_region_fr
+2023,Jendouba,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Jendouba Nord,2,1007,182,7500,45,NA,NA,NA
+2023,bousalem,3,5249,1606,31200,400,NA,NA,NA
+2023,Baltabouauen,2,1393,705,19500,171,NA,NA,NA
+2023,Tabarka,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Aïn Draham,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Fernana,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Ghardimaou,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Oued Mliz,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Total Gouvernorat,7,7649,2493,58200,616,NA,NA,NA
+2024,Jendouba,-,-,NA,-,-,NA,NA,NA
+2024,Jendouba Nord,2,1007,182,7500,45,NA,NA,NA
+2024,bousalem,3,5249,1606,31200,400,NA,NA,NA
+2024,Baltabouauen,2,1393,705,19500,171,NA,NA,NA
+2024,Tabarka,-,-,-,-,-,NA,NA,NA
+2024,Aïn Draham,-,-,-,-,-,NA,NA,NA
+2024,Fernana,-,-,-,-,-,NA,NA,NA
+2024,Ghardimaou,-,-,-,NA,-,NA,NA,NA
+2024,Oued Mliz,-,-,-,-,-,NA,NA,NA
+2024,Total Gouvernorat,7,7649,2493,58200,616,NA,NA,NA
