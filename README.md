@@ -206,11 +206,13 @@ To reproduce the workflow:
 **Smart SDG Tunisia – Manouba School of Engineering 2026 Internship**
 
 ### Authors
-**Badis Zammouri**
-**Mohamed Chandoul**
+
+* **Badis Zammouri**
+* **Mohamed Chandoul**
 
 ### Supervisor
-**Mr. Ali Ben Abbes**
+
+* **Mr. Ali Ben Abbes**
 
 ### Data Source
 **ONAGRI** (https://www.onagri.nat.tn/)
