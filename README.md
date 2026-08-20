@@ -200,10 +200,10 @@ To reproduce the workflow:
 * Required R packages used by the scripts
 * **QGIS**, **ArcGIS**, or another compatible GIS application for visualization
 * Raw agricultural datasets
-* Tunisia reference dataset
-* Tunisian administrative boundary shapefile
+* Reference dataset
+* Administrative boundary shapefile
 
-> Make sure all file paths are correctly configured before running the scripts.
+Make sure all file paths are correctly configured before running the scripts.
 
 
 ## Developed under:
