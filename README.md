@@ -40,6 +40,10 @@ The raw datasets are organized by category before processing.
 
 A reference `Tunisia.csv` dataset is used to normalize administrative names and establish a unified regional identifier. The reference data was extracted from GIS data provided by **GADM**.
 
+## Example Output
+<img width="901" height="684" alt="image" src="https://github.com/user-attachments/assets/4e4e5607-124a-4ea8-af03-547b812b6129" />
+
+
 ## Project Workflow
 
 The complete workflow consists of two main R scripts.
