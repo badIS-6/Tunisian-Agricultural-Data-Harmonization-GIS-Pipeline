@@ -1,6 +1,6 @@
 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/a5d13930-71ae-4785-b71d-e9daec503e67" />
-This is our contribution to the SmartSDG Tunisia platform.
+This is our contribution to the SmartSDG Tunisia platform (Link: https://mse.rnu.tn/smartsdg_tunisia/dashboard.html)
 
 # Harmonization of open agricultural data and agricultural analysis in Tunisia
 ---
