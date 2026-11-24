@@ -57,7 +57,7 @@ Looking beyond these spatial limitations, the evolution of average wheat product
 
 *Figure 3. Evolution of recorded durum wheat production by selected year (sum of available governorate records, coverage shown for each year).*
 
-SmartSDG Tunisia combines both perspectives, where production occurs and how it evolves over time, providing a stronger basis for monitoring agricultural trends and supporting the Sustainable Goals.
+SmartSDG Tunisia (https://mse.rnu.tn/smartsdg_tunisia/dashboard.html) combines both perspectives, where production occurs and how it evolves over time, providing a stronger basis for monitoring agricultural trends and supporting the Sustainable Goals.
 
 
 <img width="687" height="406" alt="image" src="https://github.com/user-attachments/assets/342dd084-bfd9-4ed9-a815-01272fc09e5b" />
